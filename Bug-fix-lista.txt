@@ -1,0 +1,4 @@
+Bug-fix-lista
+Det kommer inte upp nån text om hur många rätt man får när man har gjort quizet.
+Det är svårt att veta om man ska skriva svaret med små eller stora bokstäver och ifall man ska skriva lagets förkortning eller hela namnet, så jag måste fixa placeholders så att det står i textrutan att man ska skriva med små bokstäver och sen skriva dit nån stans att man ska skriva lagets förkortning.
+Jag råkade skicka in en commit på fel uppgift, så det är därför jag inte har så många commits.

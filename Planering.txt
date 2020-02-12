@@ -1,0 +1,4 @@
+Planering:
+1. Kolla på videos och får en uppfattning om hur man gör, sedan koda lite grundläggande saker, som struktur och länka in css och java. Ca 2-3 tim.
+2. Komma på frågor och ifall jag ska ha text-frågor och/eller frågor man kryssar i rätt svar, sedan koda frågorna. Ca 2 tim.
+3. Finslipa detaljer och göra så att hemsidan ser bra ut. 1-1,5 tim.
